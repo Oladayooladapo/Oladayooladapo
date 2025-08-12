@@ -34,7 +34,7 @@ I’m passionate about transforming raw data into **actionable insights** and **
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 **Languages:** Python, SQL, DAX  
 **Libraries & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, OpenCV, Matplotlib, Seaborn  
 **Databases:** PostgreSQL, SQL Server  
