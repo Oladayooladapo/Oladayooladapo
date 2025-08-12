@@ -8,38 +8,31 @@ I’m passionate about transforming raw data into **actionable insights** and **
 
 ## About Me  
 - Experienced in **Machine Learning, Predictive Analytics, and Advanced Data Visualisation**  
-- Skilled in **Power BI, Tableau, SQL, and Python (Pandas, Scikit-learn, TensorFlow)**  
-- Adept at **ETL automation**, database optimisation, and **cloud-based data workflows**  
+- Skilled in **Power BI, Tableau, Excel, SQL, and Python (Pandas, Scikit-learn, TensorFlow)**  
+- Adept at **ETL automation**, database optimisation.
 - Strong background in **business analysis** for data-driven strategy alignment  
 - Thrives in **fast-paced, cross-functional, and multicultural environments**
-- Data visualization with Power BI and Tableau
-- Advanced Excel modeling & dashboarding
-- Insight generation using SQL
-- Business process mapping and improvement
 - Building self-service analytics tools for non-technical users
 - Automating reports and enhancing data accessibility
 
 ---
 
 ## Recent Highlights  
-- **+20%** improvement in demand forecasting accuracy with ML models  
-- **-50%** data processing time through automated Python ETL pipelines  
-- **+30%** operational efficiency with interactive BI dashboards  
-- **-35%** query time by optimising PostgreSQL databases  
-- **+15%** client retention through predictive analytics-driven strategy
+- **+20%** improvement in demand forecasting accuracy with ML models   
+- **-35%** query time by optimising Microsoft SQL Server Management Studio databases  
 - Cut operational costs by £5.7M through system redesign and data-led process improvements
-- Reduced processing times by up to 40% through Power BI dashboards and automation
-- Delivered real-time analytics for financial teams with interactive dashboards
-- Spearheaded cross-department analytics that improved retention and satisfaction metrics by double digits 
+- Reduced processing times by up to 40% through Power BI dashboards and automated Python ETL pipelines
+- Improved operational efficiency by 30% for financial teams with interactive dashboards
+- Spearheaded cross-department predictive analytics-driven strategy that improved retention and satisfaction metrics by double digits 
 
 ---
 
 ## Tech Stack  
-**Languages:** Python, SQL, DAX  
+**Languages:** Python, SQL
 **Libraries & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, OpenCV, Matplotlib, Seaborn  
 **Databases:** PostgreSQL, SQL Server  
 **BI & Visualisation:** Tableau, Power BI, Excel (Advanced)  
-**Tools & Platforms:** Jupyter Notebook, Google Colab, Jira, Trello, GitHub  
+**Tools & Platforms:** Jupyter Notebook, Google Colab, Jira, Trello, GitHub  , Visual Studio Code
 
 ---
 
