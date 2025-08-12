@@ -43,17 +43,13 @@ I’m passionate about transforming raw data into **actionable insights** and **
 
 ---
 
-## ⚡ Fun Fact  
-Whether I’m optimising a predictive model or watching football, I’m all about patterns—on the pitch or in the data.  
-
-
-📚 Always Learning:
+Always Learning:
 I’m always upskilling in modern analytics, business strategy, and the evolving UK market landscape, while staying grounded in my cultural values of excellence and resilience.
 
-📫 Let’s Connect:
-📧 oladayooladapo@gmail.com
+Let’s Connect:
+oladayooladapo@gmail.com
 
-💼 https://www.linkedin.com/in/oladayo-oladapo-cbap/
+https://www.linkedin.com/in/oladayo-oladapo-cbap/
 
-⚡ Fun Fact:
+Fun Fact:
 Whether I’m refining a report or watching soccer, I’m all about patterns—on spreadsheets or on the pitch. 
